@@ -12,8 +12,7 @@ web developer student.
 
 ## Usage
 
-Screen Shot 2022-03-27 at 9.44.14 PM
-
+![Screen Shot 2022-03-27 at 9 44 14 PM](https://user-images.githubusercontent.com/100814742/160313598-bb511bf2-94bd-41f9-8fae-abf2896a2af4.png)
 
 
 
