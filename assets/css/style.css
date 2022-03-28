@@ -60,14 +60,6 @@ html{
     color: white
 
 }
-#pic{
-    display: flex;
-}
-#pic img{
-    width: 1px;
-    height: 1px;
-}
-
 
 #home::before{
     content: "";
@@ -81,6 +73,14 @@ html{
 
     z-index: -1;
     opacity: .8;
+}
+
+#pic{
+    display: flex;
+}
+#pic img{
+    width: 575px;
+    height: 400px;
 }
 
 .main{
@@ -124,7 +124,6 @@ html{
     box-sizing: border-box;
     padding: 20%;
     margin-bottom: 50px;
-
 }
 #pic{
     display: flex;
@@ -168,7 +167,7 @@ html{
     margin: 5px;
 }
 
-/*Education Section*/
+/*SERVICES Section*/
 
 #services{
     display: flex;
