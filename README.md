@@ -1,6 +1,6 @@
 # Portfolio
 
-## Pupose
+## Purpose
 A website that shows my current portfolio as a current 
 web developer student. 
 
